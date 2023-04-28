@@ -1,4 +1,4 @@
-# Himanshi Saxena ![Himanshi photo](./img/himanshi_saxena_photo.jpg)
+# Himanshi Saxena
 
 Email: <saxena.himanshi11@gmail.com>
 
