@@ -1,49 +1,89 @@
-# (project name)
+# Himanshi Saxena ![Himanshi photo](./img/himanshi_saxena_photo.jpg)
 
-<!-- describe your project -->
+Email: <saxena.himanshi11@gmail.com>
 
-## Getting Started
+Mobile: +32 474128655
 
-<!-- a guide to using this repository -->
+LinkedIn Profile: <https://www.linkedin.com/in/himanshi-saxena>
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+## Objective
 
-## Code Quality Checks
+I am a fresh graduate in Computer Science with high affinity towards a career in
+Front-end development. Looking to work in a reputed organization where I can use
+my technical and professional skills.
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+## Education skills
 
-## Continuous Integration (CI)
+| Degree                                            | University                   | Year |
+| ------------------------------------------------- | ---------------------------- | ---- |
+| Master of Engineering in Applied Computer Science | Vrije Universiteit, Brussels | 2022 |
+| Bachelor of Computer Applications                 | Kumaun University, India     | 2011 |
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+**Coursework:**
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+Web Information System, Scripting Language (Python), Unified Modeling Language,
+Database, Next generation user interface, Advanced Programming, Data
+Representation, Reduction and Analysis (Machine Learning), Web Technology.
 
-## Repo Setup
+## Technical Skills
 
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- In _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+Programming languages and tools: HTML, CSS, Python, WordPress, UML, Chatbot
+Dialogflow. Database: MSSQL, MySQL Operating system: Windows, Linux, Ubuntu.
+Microsoft Office: Word, PowerPoint, Excel, Outlook.
+
+## Work Authorization
+
+**Authorized to work in Belgium:** Unlimited access to labor market
+
+## Research/Projects
+
+- **YouTube Spam Comment Detection-**
+
+**Technologies:** Python, Text representation techniques (Bag of words and
+TF-idf)
+
+This project was part of machine learning course in masters, with a goal to do
+an exploratory data analysis on given set of real comments by computation,
+distribution of unique words and visualization to classify if comment maybe
+marked as spam or not.
+
+- **ReadBook (Crowd Sourcing for Book content Availability)**
+
+**Technologies:** HTML, CSS, SQL, WordPress
+
+The idea of Read Book is to extract point of interest from texts and to make
+them easily accessible to everyone. These could be summaries or analyses,
+theorems, or links with other texts. In a broad sense, our system aims to
+convert information contained in large publications into concise, precise, and
+easily accessible points.
+
+**Contribution:** Analysis, design and coding for web-based user interface of
+application.
+
+- **Voice Controlled Chess Board**
+
+**Technologies:** Chatbot Dialogflow
+
+This project was developed to showcase enhanced Next generation user interface
+design with automated chess board, capable of taking voice commands from user
+and translating them into physical moves on board with help of XY Plotter.
+
+**Contribution:** Analysis, design and integration of conversational user
+interface to allow translation of provided voice command to appropriate
+parameters and pass it to backend for further processing on physical board to
+move chess pieces.
+
+- **Master Thesis**
+
+**Title:** Enhancing learning experience with Augmented Reality Mind maps
+
+**Technologies:** AR Core, Java, AR markers and QR detection
+
+This thesis was undertaken to study the effectiveness of mind mapping over
+traditional note-taking techniques and explore the benefits offered by physical
+and digital mind maps. Also, a comparative analysis was performed on available
+tools in the market to develop a solution that intends to bridge the gap between
+physical and digital mind maps. A prototype of augmented reality based mobile
+application was also developed as part of this thesis. The application enabled
+users to enrich physical mind maps with digital information – text, images, and
+hyperlinks to enhance the learning experience of the user.
